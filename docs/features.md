@@ -1,14 +1,19 @@
 ---
 sidebar position: 3
 ---
-# Comparison of Features
+# Free vs Pro Features
 
-| Features                        | Windows | Mac |
-|---------------------------------|---------|-----|
+| Features                        | Free     | Pro |
+|---------------------------------|--------- |-----|
 | Launch JMeter                   | ✅       | ✅   |
 | Launch JMeter Recent Test Plans | ✅       | ✅   |
 | Set JMeter Home                 | ✅       | ✅   |
 | View Config                     | ✅       | ✅   |
 | Refresh                         | ✅       | ✅   |
-| Telemetry                       | ❌       | ✅   |
-| Updates                         | ❌       | ❌  |
+| Telemetry                       | ✅       | ✅   |
+| Multiple JMeter version**       | ❌       | ✅   |
+| Additional Commands             | ❌       | ✅   |
+| Updates**                       | ❌       | ✅   |
+| Email Support                   | ❌       | ✅   |
+
+> *Coming Soon Features*

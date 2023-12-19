@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: '🐹 Hamster',
   tagline: 'a simple utility to launch JMeter and its recent test plan swiftly from the menu/status bar.',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/hamster.png',
 
   // Set the production url of your site here
   url: 'https://hamster.qainsights.com',
@@ -65,7 +65,7 @@ const config = {
         title: 'Hamster',
         logo: {
           alt: 'Hamster Logo',
-          src: 'img/logo.svg',
+          src: 'img/hamster.png',
         },
         items: [
           {

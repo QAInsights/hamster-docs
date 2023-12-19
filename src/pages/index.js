@@ -16,13 +16,19 @@ function HomepageHeader() {
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
+        <div className={styles.indexCtas}>
           <Link
             className="button button--secondary button--lg"
             to="https://github.com/QAInsights/hamster/releases">
-            Download Hamster
+            Download Hamster Free
+          </Link>    
+          <span style={{ margin: '0 10px' }}></span>
+          <Link
+            className="button button button--secondary button--lg"
+            to="https://qainsights.gumroad.com/">
+            Download Hamster Pro
           </Link>
-        </div>
+        </div>        
       </div>
     </header>
   );
@@ -32,8 +38,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`${siteConfig.title}`}
+      description="JMeter productivity app - Launch JMeter test plans from your menu or status bar.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

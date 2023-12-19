@@ -13,14 +13,3 @@ An app that puts your recent JMeter test plans just a click away from your Mac m
 - 🚀 Hamster is a lightweight app that's easy to install and use. It's also open-source, so you can customize it to your liking. What's more, it's free! So what are you waiting for? Download Hamster today and take your testing to the next level.
 - 🏛️ Supports Intel and Apple Silicon architectures.
 
-## 🧩 Windows Vs Mac app features
-
-| Features                        | Windows | Mac |
-|---------------------------------|---------|-----|
-| Launch JMeter                   | ✅       | ✅   |
-| Launch JMeter Recent Test Plans | ✅       | ✅   |
-| Set JMeter Home                 | ✅       | ✅   |
-| View Config                     | ✅       | ✅   |
-| Refresh                         | ✅       | ✅   |
-| Telemetry                       | ❌       | ✅   |
-| Updates                         | ❌       | ❌  |
