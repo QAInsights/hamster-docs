@@ -2,22 +2,20 @@
 title: Install
 ---
 
-# Install
-
 ## Download
 
-Download the latest version of Hamster for Windows from [here](https://github.com/QAInsights/hamster/releases).
+To download Hamster for Windows, go to [this link](https://github.com/QAInsights/hamster/releases) and get the latest version.
 
-## Install
+## Installation
 
-Just like any other app, open the MSI package and follow the installation wizard. 
+To install Hamster, open the MSI package and follow the installation wizard, just like any other app.
 
-> If you notice that there is a warning to download, please check your download settings in your browser.
+> If you encounter a warning during the download, please check your browser's download settings.
 
-By default, Hamster will get it installed in this path `C:\Users\<user_name>\AppData\Local\Programs\QAInsights\Hamster\`.
+By default, Hamster will be installed in the following path: `C:\Users\<user_name>\AppData\Local\Programs\QAInsights\Hamster\`.
 
-## Launch Hamster
+## Launching Hamster
 
-Once the installation is successful, launch Hamster by navigating to `Start`, search for `Hamster`. After successful launch, you can see `Hamster` in your Windows status bar.
+After a successful installation, you can launch Hamster by searching for it in the Start menu. Once launched, you will see the Hamster icon in the Windows status bar.
 
 ![Hamster Windows](../../../static/assets/windows/Hamster-Windows-Status-Bar.png)
