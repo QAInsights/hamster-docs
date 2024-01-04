@@ -32,7 +32,8 @@ const sidebars = {
             'hamster-free/mac/install',      
             'hamster-free/mac/config',
             'hamster-free/mac/hamster-properties',
-            'hamster-free/mac/telemetry',              
+            'hamster-free/mac/telemetry',      
+            'hamster-free/mac/logging',        
           ],
         },
         {
@@ -43,6 +44,7 @@ const sidebars = {
             'hamster-free/windows/config',
             'hamster-free/windows/hamster-properties',
             'hamster-free/windows/telemetry', 
+            'hamster-free/windows/logging', 
           ],
         },
       ],
@@ -59,6 +61,7 @@ const sidebars = {
             'hamster-pro/mac/config',
             'hamster-pro/mac/hamster-properties',
             'hamster-pro/mac/telemetry',  
+            'hamster-pro/mac/logging',  
           ],
         },
         {
@@ -69,10 +72,12 @@ const sidebars = {
             'hamster-pro/windows/config',
             'hamster-pro/windows/hamster-properties',
             'hamster-pro/windows/telemetry',          
+            'hamster-pro/windows/logging',
           ],
         },
       ],
     },
+    'license'
   ],
   
 };
