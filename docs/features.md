@@ -16,4 +16,4 @@ sidebar position: 3
 | Updates**                       | ❌       | ✅   |
 | Email Support                   | ❌       | ✅   |
 
-> *Coming Soon Features*
+> ***Coming Soon Features*
