@@ -109,7 +109,11 @@ const config = {
           },
           {
             title: 'More',
-            items: [              
+            items: [       
+              {
+                label: 'Pro Support',
+                href: 'mailto:hamster@qainsights.com',
+              },       
               {
                 label: 'QAInsights',
                 href: 'https://qainsights.com',

@@ -77,7 +77,8 @@ const sidebars = {
         },
       ],
     },
-    'license'
+    'license',
+    'support',
   ],
   
 };
