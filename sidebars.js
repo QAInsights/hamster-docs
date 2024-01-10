@@ -79,6 +79,9 @@ const sidebars = {
     },
     'license',
     'support',
+    'faq',
+    'privacy-policy',
+    'version-history',
   ],
   
 };
