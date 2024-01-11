@@ -11,9 +11,9 @@ sidebar position: 7
 
 | OS        | SHA 256   |
 | --------  | --------  |
-|   Hamster-0.0.5-win64.zip     |   1b25cfb1b5b52c7f8b48b8ca5e7a39ae22575aeed2854eab4940f54c0a71bdf5      |
-|   Hamster-arm64-silicon.zip   |   be10a4e4b0158139800c419d10b005f342fcc03fcf886acbd6566cfae7868b01      |
-|   Hamster-x86-64-intel.zip    |   eb8e79cf45b4a5283abb61048bc52e31ccdc01af8be1e14c7422226c45e3b410      |
+|   Hamster-0.0.5-win64.zip     |   5fed9826c98cccf45dabda8976f22adf38ca5fccdcd753379cda3cc8848462ad      |
+|   Hamster-arm64-silicon.zip   |   63d35b3301d47d320d14cad9f8a193171c6c934b37646c64b51b8c09aac8724d      |
+|   Hamster-x86-64-intel.zip    |   253922122da09902a8c10fb8b9054eb4b54cd06a51a79347dc65fecfb2a1f789      |
   
   
   
